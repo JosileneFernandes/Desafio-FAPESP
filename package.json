@@ -7,10 +7,11 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.7"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "nodemon index.js"
   },
@@ -18,5 +19,13 @@
     "node"
   ],
   "author": "Josilene",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosileneFernandes/Desafio-FAPESP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JosileneFernandes/Desafio-FAPESP/issues"
+  },
+  "homepage": "https://github.com/JosileneFernandes/Desafio-FAPESP#readme"
 }
